@@ -1,0 +1,8 @@
+# ninja log v5
+1	105	1676455758753150747	CMakeFiles/untitled.dir/cs50.c.o	eeabe30afd1a6d31
+1	65	1676456788354175818	CMakeFiles/untitled.dir/main.c.o	51fa42d93fdd2899
+65	144	1676456788431161641	untitled	eb51b8248f5e7274
+0	85	1676457478027596166	build.ninja	f932d4dd7729a6f
+0	106	1676457425943632727	CMakeFiles/Mario-Less.dir/Users/anatoluarmolovich/Developer/Learning/CS50/C/cs50lib/cs50.c.o	21e20a833c817542
+0	61	1676457448055219777	CMakeFiles/Mario-Less.dir/main.c.o	7b8d2f802e5945b4
+61	143	1676457448136900449	Mario-Less	276d02eeaf8093ae

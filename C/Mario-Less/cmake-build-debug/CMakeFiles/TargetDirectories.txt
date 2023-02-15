@@ -1,0 +1,3 @@
+/Users/anatoluarmolovich/Developer/Learning/CS50/C/Mario-Less/cmake-build-debug/CMakeFiles/Mario-Less.dir
+/Users/anatoluarmolovich/Developer/Learning/CS50/C/Mario-Less/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/anatoluarmolovich/Developer/Learning/CS50/C/Mario-Less/cmake-build-debug/CMakeFiles/rebuild_cache.dir
