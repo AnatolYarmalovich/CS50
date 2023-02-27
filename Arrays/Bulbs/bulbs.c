@@ -36,7 +36,6 @@ void printMsgAsBulb(string message)
             {
                 bulbs[j] = 0;
             }
-
         }
 
         for (int j = 0; j < BITS_IN_BYTE; j++)
