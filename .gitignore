@@ -1,5 +1,6 @@
-C/**/.idea
-C/**/cmake-build-debug
+**/**/.idea
+**/**/cmake-build-debug
 *.txt
 C/cs50lib
 Scratch
+
